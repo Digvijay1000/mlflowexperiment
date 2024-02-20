@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLFLOW/mlruns/0/184b6ae9cb084c8cbcf60fbf5cef48ef/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 184b6ae9cb084c8cbcf60fbf5cef48ef
+run_name: hilarious-sow-424
+run_uuid: 184b6ae9cb084c8cbcf60fbf5cef48ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708436482718
+status: 1
+tags: []
+user_id: DigvijayMohite

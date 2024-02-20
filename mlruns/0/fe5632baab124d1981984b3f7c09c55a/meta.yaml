@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLFLOW/mlruns/0/fe5632baab124d1981984b3f7c09c55a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe5632baab124d1981984b3f7c09c55a
+run_name: painted-ox-559
+run_uuid: fe5632baab124d1981984b3f7c09c55a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708436730518
+status: 1
+tags: []
+user_id: DigvijayMohite

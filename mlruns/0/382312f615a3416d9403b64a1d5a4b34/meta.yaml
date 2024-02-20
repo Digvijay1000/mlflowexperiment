@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLFLOW/mlruns/0/382312f615a3416d9403b64a1d5a4b34/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 382312f615a3416d9403b64a1d5a4b34
+run_name: redolent-ox-318
+run_uuid: 382312f615a3416d9403b64a1d5a4b34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708437436925
+status: 1
+tags: []
+user_id: DigvijayMohite
